@@ -9,7 +9,7 @@
 - Added in Repo here
 - Lambda Extracts that file and loads it into RedShift
 
-## Use Cloudwatch to do Vizualise momentarily
+## Use Cloudwatch to Vizualise momentarily
 
 # Thank You!
 
