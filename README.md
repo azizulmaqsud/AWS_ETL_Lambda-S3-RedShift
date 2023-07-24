@@ -1,6 +1,6 @@
 # AWS_ETL_Lambda-S3-RedShift
 
-# A Quick Overview:
+## A Quick Overview:
 
 ## Upload an object in the S3 bucket
 - Lambda invokes that object from S3
